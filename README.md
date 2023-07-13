@@ -167,6 +167,10 @@ Setup HAL-KART on your local machine using these simple steps:
    ```sh
    npm install
    ```
+
+    ```sh
+   npm start
+   ```
 >For Backend
 - Visit [HAL-KART-backend](https://github.com/Deepanshu1008/HAL-KART-Backend) for backend repository
 
