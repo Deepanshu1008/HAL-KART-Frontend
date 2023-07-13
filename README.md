@@ -7,9 +7,9 @@
   
   <h3 align="center">HAL-KART</h3>
 
-  <p align="center">
+  <h1 align="center">
    HAL-KART is an E-commerce website made using Spring Boot + React JS + MySQL
-   
+  </h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -161,7 +161,7 @@ Setup HAL-KART on your local machine using these simple steps:
 - Fork the repo
 - Clone the repo
    ```sh
-   git clone (https://github.com/Deepanshu1008/HAL-KART-Frontend)
+   git clone https://github.com/Deepanshu1008/HAL-KART-Frontend
    ```
 - Install NPM packages
    ```sh
@@ -188,9 +188,3 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
