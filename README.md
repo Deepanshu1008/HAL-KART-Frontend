@@ -1,27 +1,28 @@
 # HAL-KART-Frontend
-
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   
-  <h3 align="center">HAL-KART</h3>
 
-  <h1 align="center">
+  <p align="center">
    HAL-KART is an E-commerce website made using Spring Boot + React JS + MySQL
-  </h1>
+  </p>
+  
+  ![HALlogo](https://github.com/Deepanshu1008/HAL-KART-Frontend/blob/main/frontend/src/images/carousel_1.png)
+
 </div>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-You can implement JWT token authentication to secure website's
-login/signup functionality.
+
 Differentiated between admin and employee roles to enforce
 appropriate access controls
 Created API endpoints for essential functionalities, such as product
-management, cart management, and order placement.
+management, cart management, and order placement.You can implement JWT token authentication to secure website's
+login/signup functionality.
 
 
 
@@ -36,11 +37,11 @@ management, cart management, and order placement.
 
 **Software Used:**
 
-1) STS or Eclipse Ide (Backend)
+- STS or Eclipse Ide (Backend)
 
-2) VS Code (Frontend)
+- VS Code (Frontend)
 
-3) MySQL Workbench (Database)
+- MySQL Workbench (Database)
 
 ​Note: If you want to use another IDE for Backend like (IntelliJ Idea, Netbeans Ide, etc), you can use that also based on preferences.
 
@@ -50,11 +51,11 @@ management, cart management, and order placement.
 
 The project contains 3 Module:
 
-1) Admin
+- Admin
 
-2) Customer
+- Customer
 
-3) Delivery Person
+- Delivery Person
 
 
 
@@ -140,7 +141,7 @@ User Role-Wise Functionalities:
 
 4) You can easily Customize the Project based on your requirements.
 
-
+![HAL_kart_logo](https://github.com/Deepanshu1008/HAL-KART-Frontend/blob/main/frontend/src/images/e_logo.png)
 
 
 <!-- GETTING STARTED -->
@@ -163,11 +164,13 @@ Setup HAL-KART on your local machine using these simple steps:
    ```sh
    git clone https://github.com/Deepanshu1008/HAL-KART-Frontend
    ```
+- Open terminal
+
 - Install NPM packages
    ```sh
    npm install
    ```
-
+- Start the project
     ```sh
    npm start
    ```
